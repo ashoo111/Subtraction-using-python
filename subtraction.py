@@ -5,4 +5,4 @@ b = input("Enter second number: ")
 
 sum = float(a) - float(b)
 
-print("subtraction")
+print(subtraction)
